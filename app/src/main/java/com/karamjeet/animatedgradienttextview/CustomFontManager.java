@@ -33,6 +33,5 @@ public final class CustomFontManager {
         } catch (Exception e) {
             e.printStackTrace();
         }
-
     }
 }
